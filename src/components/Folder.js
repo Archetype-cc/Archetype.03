@@ -102,8 +102,9 @@ class Folder extends Component {
   }
 
   getDatLink = () => {
-    const { folderName } = this.props;
-    getDat(folderName, (url) => {
+    const { folderName, parent } = this.props;
+    console.log("folder es:" + folderName);
+    getDat(folderName, parent, (url) => {
       shell.openExternal(`${url}`);
     });
   }
