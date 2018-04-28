@@ -1,12 +1,10 @@
-# Archetype 03
-
-A desktop tool to structure/organize archive collections.  
+<h1 align="center">Archetype #03</h1>
 
 <p align="center">
-  <img src="./imgs/archive.png" alt="Archetype Archive" width="200">
+  <img src="./imgs/archive1.png" alt="Archetype Archive" >
 </p>
 
-<h1 align="center">Archetype #03</h1>
+A desktop tool to structure/organize archive collections.  
 
 
 ## Introduction
