@@ -4,8 +4,6 @@
   <img src="./imgs/archive.png" alt="Archetype Archive" >
 </p>
 
-A desktop tool to structure/organize archive collections.  
-
 
 ## Introduction
 
@@ -13,14 +11,14 @@ Archetype 03 is a tool to organize and create collections of Dat archives.
 
 ## Features
 
-- Create Collection by Topics on you computer.
-- Download and archive Dat Archives.  
+- Create Collection by topics on your computer.
+- Download and Archive.
 - Help Seed Archives in the network (~).
 
 
 ## Why ?
 
-Soon.
+This is an experimental tool to help anyone interested in become an independent collector. More Soon. 
 
 ## Getting Started
 
