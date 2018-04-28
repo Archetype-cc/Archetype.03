@@ -1,7 +1,7 @@
 <h1 align="center">Archetype #03</h1>
 
 <p align="center">
-  <img src="./imgs/archive1.png" alt="Archetype Archive" >
+  <img src="./imgs/archive2.png" alt="Archetype Archive" >
 </p>
 
 A desktop tool to structure/organize archive collections.  
